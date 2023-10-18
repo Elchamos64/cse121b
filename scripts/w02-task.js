@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 const fullName = "Oscar Ramos";
 let currentYear = 2023;
-let profilePicture = 'w02-task/images/bioPicture.jpg';
+let profilePicture = 'images/bioPicture.jpg';
 
 
 
